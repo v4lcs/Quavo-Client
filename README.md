@@ -1,8 +1,8 @@
-#Features (254)
-#A full list of Quavo's features can be found below.
-#Note that not all of these features are available in all Minecraft versions.
+**Features (254)**
+**A full list of Quavo's features can be found below.**
+**Note that not all of these features are available in all Minecraft versions.**
 
-#Cheats (172)
+**Cheats (172)**
 AimAssist
 AirPlace
 AnchorAura
@@ -175,7 +175,7 @@ TrueSight
 Tunneller
 VeinMiner
 X-Ray
-#Commands (58)
+**Commands (58)**
 .addalt
 .annoy
 .author
