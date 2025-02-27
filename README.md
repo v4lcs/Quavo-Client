@@ -175,6 +175,8 @@ TrueSight
 Tunneller
 VeinMiner
 X-Ray
+
+
 **Commands (58)**
 .addalt
 .annoy
